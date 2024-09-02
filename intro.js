@@ -24,3 +24,14 @@ let ary = [2, 3, 4, 5, 6, 7];
 // here Array is mutable
 
 
+
+
+let text = "I love my country. I am learner. my faverite book is JavaScript."
+
+console.log(text)
+
+// splite() method use for create Array
+
+let arry = text.split(` `)
+
+console.log(arry)
